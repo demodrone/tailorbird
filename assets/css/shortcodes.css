@@ -99,7 +99,13 @@
 
 /* Style 2 */
 .themesflat-headings.style-2 .heading { font-size: 22px; line-height: 58px; }
-.themesflat-headings.style-2 .sub-heading { font-size: 14px; line-height: 22px; font-weight: 400; color: #555; margin-top: 29px; }
+.themesflat-headings.style-2 .sub-heading {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #555;
+    margin-top: 29px;
+}
 .themesflat-headings.style-2 .sup-heading { font-size: 16px; color: #222;  }
 
 /* Font hind */
@@ -926,6 +932,3 @@
 .themesflat-lines .line-full .line { width: 100%; }
 
 .themesflat-lines.style-1 .line { height: 1px; background-color: #f2f2f2; }
-
-
-
