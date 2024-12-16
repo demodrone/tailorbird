@@ -1,0 +1,37 @@
+.demo-section {
+  padding: 140px 0 60px;
+}
+
+.footer {
+  background-color: #1c1c1c;
+  color: #ffffff;
+  padding: 15px 0;
+}
+.footer p {
+  margin: 0;
+}
+.footer a {
+  color: #ffffff;
+}
+
+.demo-content {
+  border-radius: 6px;
+  box-shadow: 1px 2px 30px rgba(0, 0, 0, 0.35);
+  margin-bottom: 40px;
+  overflow: hidden;
+  position: relative;
+  transition: 0.2s linear all;
+}
+.demo-content:hover {
+  transform: translateY(-10px);
+  transition: 0.2s linear all;
+}
+.demo-content .demo-link {
+  background-color: #ee9234;
+  color: #ffffff;
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  text-align: center;
+  padding: 10px;
+}

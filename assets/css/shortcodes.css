@@ -32,7 +32,9 @@
 -------------------------------------------------------------- */
 .themesflat-button { display: inline-block; font-size: 14px;  font-weight: 600; color: #fff; background-color: transparent; padding: 14px 40px;  font-family: 'Montserrat', sans-serif; letter-spacing: 0.5px;  position: relative; z-index: 1; overflow: hidden; }
 .themesflat-button.font-default { font-family: 'Open Sans', sans-serif; font-size: 14px; font-weight: 400; padding: 13px 25px; letter-spacing: 0px; }
-.themesflat-button.bg-accent { background-color: #ffc30c; }
+.themesflat-button.bg-accent {
+    background-color: #C6D92C;
+}
 .themesflat-button.bg-white { background-color: #fff; color: #ffc30c; }
 .themesflat-button.bg-light-white { background-color: #f2f2f2; color: #555; }
 .themesflat-button.bg-white.color-333 { background-color: #fff; color: #333; }
@@ -227,7 +229,9 @@
 .themesflat-list.has-icon.size-16 .icon { font-size: 16px;}
 
 /* Style 1 */
-.themesflat-list.style-1 .icon { color: #ffc30c; }
+.themesflat-list.style-1 .icon {
+    color: #C6D92C;
+}
 .themesflat-list.style-1.icon-left .item { padding-left: 24px; width: 100%; }
 .themesflat-list.style-1.icon-left.ofset-padding-32 .item { padding-left: 32px; }
 .themesflat-list.style-1 .text { color: #666; }
@@ -511,7 +515,10 @@
 .themesflat-tabs.style-2 .tab-content .item-content { padding: 20px 0px 19px 26px; background-color: transparent; border: 1px solid #f2f2f2;  }
 .themesflat-tabs.style-2 .tab-content .item-content p { margin-top: 10px; letter-spacing: 0.07px; }
 .themesflat-tabs.style-2 .tab-content .item-content p:first-child { margin: 0px; letter-spacing: 0px; }
-.themesflat-tabs.style-2 .tab-title .item-title.active { background-color: #ffc30c; color: #222; }
+.themesflat-tabs.style-2 .tab-title .item-title.active {
+    background-color: #C6D92C;
+    color: #222;
+}
 
 /* Has padding */
 .themesflat-tabs.w168 .tab-title .item-title { width: 168px; text-align: center;  }
@@ -857,7 +864,10 @@
 .separator-solid .flat-content-wrap:last-child { border-bottom: 0px;  padding-bottom: 0px; margin: 0px;}
 .flat-content-wrap .title { font-size: 18px; line-height: 36px; color: #222; font-weight: 600; letter-spacing: -0.15px; }
 .flat-content-wrap p { color: #777; letter-spacing: -0.15px; margin: 0px; }
-.flat-content-wrap .item { width: 50%; float: left; }
+.flat-content-wrap .item {
+    width: 75%;
+    float: left;
+}
 .flat-content-wrap .item .pd35 { padding: 20px 35px 18px 32px; }
 
 .flat-content-wrap .sep.has-width.w60 { width: 60px; height: 2px; }
