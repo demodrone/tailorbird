@@ -632,7 +632,9 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
     color: #373737;
 }
 .header-style-3 #site-header #main-nav > ul > li.current-menu-item > a,
-.header-style-3 #site-header #main-nav > ul > li:hover > a { color: #ffc30c; }
+.header-style-3 #site-header #main-nav > ul > li:hover > a {
+    color: #000000;
+}
 .header-style-3 #site-header .header-search-icon,
 .header-style-3 #main-nav > ul > li > a { line-height: 99px; }
 .header-style-3 #site-header .wrap-inner { padding: 30px 0px; }
