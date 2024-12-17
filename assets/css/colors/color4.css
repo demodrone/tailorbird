@@ -40,9 +40,9 @@ button, input[type="button"], input[type="reset"], input[type="submit"],
 .themesflat-testimonials.has-width.w35 .icon-wrap,
 .themesflat-price-table.style-1 .tag,
 .themesflat-price-table .sep.has-width.accent-bg,
-.has-effect-icon .elm-link a.icon-1:hover { background-color: #dd4c39; }
+.has-effect-icon .elm-link a.icon-1:hover { background-color: #c6d92c; }
 
-.bg-ffc { background-color: #dd4c39 !important; }
+.bg-ffc { background-color: #c6d92c !important; }
 
 /* Color
 -------------------------------------------------------------- */
@@ -79,9 +79,11 @@ a:hover, a:focus, a:active,
 .detail-inner-wrap .list-info span > a:hover,
 .themesflat-price-table.style-1 .price-table-price .figure,
 .themesflat-price-table.style-1 .price-table-price .currency,
-#top-bar .top-bar-socials .icons a:hover { color: #dd4c39; }
+#top-bar .top-bar-socials .icons a:hover {
+    color: #252621;
+}
 
-.text-accent { color: #dd4c39 !important;  }
+.text-accent { color: #c6d92c !important;  }
 /* Border
 -------------------------------------------------------------- */
 textarea:focus,
@@ -108,7 +110,6 @@ input[type="color"]:focus,
 .owl-theme .owl-dots .owl-dot:hover span, .owl-theme .owl-dots .owl-dot.active span,
 .themesflat-accordions.style-4 .accordion-item.active .accordion-heading,
 .has-thumb.w185 .owl-thumbs .owl-thumb-item.active,
-#footer .widget.widget_tags .tags-list a:hover:before, .widget.widget_tags .tags-list a:hover:before { border-color: #dd4c39; }
+#footer .widget.widget_tags .tags-list a:hover:before, .widget.widget_tags .tags-list a:hover:before { border-color: #c6d92c; }
 
-.animsition-loading:after { border-color: #dd4c39 transparent transparent transparent; }
-
+.animsition-loading:after { border-color: #c6d92c transparent transparent transparent; }
